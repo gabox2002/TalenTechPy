@@ -64,7 +64,7 @@ donde se encuentra el archivo `app.py`. La tabla `productos` tiene la siguiente 
 |---------------|----------|------------------------------------------|
 | `id`          | INTEGER  | Identificador único (clave primaria).    |
 | `nombre`      | TEXT     | Nombre del producto (no nulo).           |
-| `descripcion` | TEXT   | Descripción breve del producto.          |
+| `descripcion` | TEXT     | Descripción breve del producto.          |
 | `cantidad`    | INTEGER  | Cantidad disponible (no nulo).           |
 | `precio`      | REAL     | Precio del producto (no nulo).           |
 | `categoria`   | TEXT     | Categoría a la que pertenece el producto.|
